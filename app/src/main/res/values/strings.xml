@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mysubmission</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="sourceName">Asal Daerah :</string>
+</resources>
